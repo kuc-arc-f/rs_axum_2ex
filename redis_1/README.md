@@ -23,5 +23,9 @@ curl -X POST -H "Content-Type: application/json" \
  http://localhost:8080/redis_add
 
 ```
+***
+### blog
+
+https://zenn.dev/knaka0209/scraps/15f21a7e405a6a
 
 ***
